@@ -1,0 +1,12 @@
+/bin/
+
+.env
+
+
+# files of air
+/tmp/
+
+# IDEs
+.vscode
+
+data/
